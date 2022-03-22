@@ -3,11 +3,13 @@ pip>=9
 setuptools>=26
 twine
 wheel>=0.29
+os
 
 # data science
 numpy
 pandas
 scikit-learn
+textblob
 
 # tests/linter
 black
@@ -21,9 +23,13 @@ gcsfs
 google-cloud-storage
 mlflow
 s3fs
+snscrape
 
 # utilities
 six>=1.14
 joblib
 memoized-property
 termcolor
+
+#translators
+deep_translator
