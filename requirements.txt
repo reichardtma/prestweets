@@ -32,3 +32,6 @@ termcolor
 
 #translators
 deep_translator
+
+#plotting
+plotly
