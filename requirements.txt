@@ -35,3 +35,5 @@ deep_translator
 
 #plotting
 plotly
+stylecloud
+wordcloud
